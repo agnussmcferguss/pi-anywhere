@@ -90,3 +90,7 @@ ENV/
 
 # Pickled Objects
 *.pkl
+
+# Private Objects/files
+*.priv.*
+
